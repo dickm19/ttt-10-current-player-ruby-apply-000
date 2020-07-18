@@ -16,5 +16,6 @@ def current_player(board)
     player = "O"
   return player
 end
+end
       
     
